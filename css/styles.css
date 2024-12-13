@@ -110,7 +110,7 @@ img {
 .response-list::after {
   content: '';
   position: absolute;
-  width: 76px;
+  width: 56px;
   height: 12px;
   background: radial-gradient(circle, #576f35 50%, transparent 50%),
     radial-gradient(circle, #d4bfc4 50%, transparent 50%),
